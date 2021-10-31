@@ -12,9 +12,9 @@ SOHO with ~100 clients
 rPi 3b
 
 # Future Tasks
-[ ] Consolidate lists to remove duplicates
-[ ] Integrate with MISP/CTI feeds to create a list of domains assocated with known IOCs
-[ ] Group lists in to categories for use in group management (kids devices, IoT, etc)
+- [ ] Consolidate lists to remove duplicates
+- [ ] Integrate with MISP/CTI feeds to create a list of domains assocated with known IOCs
+- [ ] Group lists in to categories for use in group management (kids devices, IoT, etc)
 
 # Lists
 * https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts		
