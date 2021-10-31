@@ -1,4 +1,17 @@
-# pihole_lists
+# Overview
+
+This repository is a living document of the lists currently in use for my implementations of PiHole. The primary focus for this collection is to block as many ads, trackers, and call homes as possible. This list has not been de-duplicated.
+
+Current stats, at time of last commit, are:
+
+![](/assets/piholestats.png)
+
+# Environment
+
+SOHO with ~100 clients
+rPi 3b
+
+# Lists
 * https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts		
 * https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt		
 * https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt		
@@ -44,5 +57,4 @@
 * https://urlhaus.abuse.ch/downloads/hostfile/		
 * https://v.firebog.net/hosts/Prigent-Malware.txt		
 * https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt		
-* https://energized.pro/unified/formats/hosts.txt
 * https://energized.pro/unified/formats/hosts.txt
