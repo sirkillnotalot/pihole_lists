@@ -66,7 +66,7 @@ rPi 3b
 * https://urlhaus.abuse.ch/downloads/hostfile/
 * https://v.firebog.net/hosts/Prigent-Crypto.txt
 * https://v.firebog.net/hosts/Prigent-Malware.txt
-* https://v.firebog.net/hosts/Shalla-mal.txt
+* ~~https://v.firebog.net/hosts/Shalla-mal.txt~~ **dead link**
 
 
 
